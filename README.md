@@ -7,6 +7,7 @@
 
 This is a minimal Web3 decentralized application (dApp) built with **Vite + Ethers.js + MetaMask**.  
 It connects to MetaMask, fetches wallet balance, and lets you send ETH on the **Sepolia testnet**.
+Created by Dr Vitaly Oustinov www.linkedin.com/in/vitaly-oustinov-phd-99b9797b
 
 ---
 
